@@ -1,0 +1,6 @@
+
+Bibliography for the files in the amls_impulse_contact package. All numerical 
+citations in the package refer to these references.
+
+[1] J. Ginsberg, Engineering Dynamics. Cambridge: Cambridge University 
+    Press, 2007.
