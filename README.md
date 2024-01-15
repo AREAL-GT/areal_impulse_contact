@@ -5,3 +5,7 @@ This package contains the implementation of the impulse-based contact model orig
 It is currently under construction, please contact Adam Garlow (adamgarlow@icloud.com) with any questions.
 
 Documentation Page: ADD LINK TO DOCUMENTATION PAGE
+
+## License
+
+This code is licensed under the [MIT license](LICENSE.md).
